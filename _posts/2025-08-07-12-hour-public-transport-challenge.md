@@ -88,7 +88,7 @@ I made the Uber Boat just in time, with the gangway being raised as soon as I bo
 
 ## Mode 12 Underground from Canary Wharf to London Waterloo
 A bit of longer walk here to transfer from the river to the tube, but it’s almost a straight line and pleasant enough. The Jubilee Line was very busy, to the point that I thought I might not make it off at Waterloo for having to clambour over mounds of luggage.
-![The outside of canary wharf tube station](/assets/img/2025-08-06/uber-boat.jpg)
+![The outside of canary wharf tube station](/assets/img/2025-08-06/canary-wharf.jpg)
 **Journey time:** 9 minutes  
 **Cost:** £2.90  
 
