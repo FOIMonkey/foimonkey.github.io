@@ -82,7 +82,7 @@ The cable car is well signed from the DLR, and is hard to miss. This is more a t
 
 ## Mode 11 Catamaran (Uber boat) from North Greenwich to Canary Wharf.
 I made the Uber Boat just in time, with the gangway being raised as soon as I boarded. The outside space was all full and inside was unbearably hot, but it does have a bar.
-![the interior of a thames clipper catamaran. Tan coloured seats can be seen, as well as the bar](/assets/img/2025-08-06/)
+![the interior of a thames clipper catamaran. Tan coloured seats can be seen, as well as the bar](/assets/img/2025-08-06/uber-boat.jpg)
 **Journey time:** 22 minutes  
 **Cost:** £5.90  
 
