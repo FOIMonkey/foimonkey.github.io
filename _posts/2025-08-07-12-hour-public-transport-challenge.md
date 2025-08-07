@@ -51,8 +51,7 @@ I wasn’t sure whether to count this as a mode, but it does run to a timetable.
 **Cost:** Free  
 
 ## Train from Gatwick Airport to East Croydon 
-By the time I made it back to the platforms, I had missed the train I’d planned to catch, but was in time to get a late running Thameslink that departed 7 minues later. I still think of these as being “new” trains, even though they have been in service for several years now. 
-
+By the time I made it back to the platforms, I had missed the train I’d planned to catch, but was in time to get a late running Thameslink that departed 7 minues later. I still think of these as being “new” trains, even though they have been in service for several years now.  
 **Journey time:** 15 minutes  
 **Cost:** £6.08  
 
@@ -93,7 +92,7 @@ A bit of longer walk here to transfer from the river to the tube, but it’s alm
 **Cost:** £2.90  
 
 ## Train from Waterloo to Southampton
-I made it to Waterloo in time to catch a Southampton bound train that left half an hour before the one I’d planned but instead opted to pick up some lunch and cold water. The free cider they were handing out was a bonus. The 14:35 left right on time, and the conductor had a great sense of humor which made the journey go more quickly. Somewhere between a Cross Country service not getting out of the way at Basingstoke and the volume of people heading to Winchester for a festival we picked up 10 minutes delay. 
+I made it to Waterloo in time to catch a Southampton bound train that left half an hour before the one I’d planned but instead opted to pick up some lunch and cold water. The free cider they were handing out was a bonus. The 14:35 left right on time, and the conductor had a great sense of humor which made the journey go more quickly. Somewhere between a Cross Country service not getting out of the way at Basingstoke and the volume of people heading to Winchester for a festival we picked up 10 minutes delay.  
 **Journey time:** 1 hour 25 minutes  
 **Cost:** £20.90
 
