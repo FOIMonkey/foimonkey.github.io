@@ -4,7 +4,7 @@ date: 2026-02-23 15:45:00 +0000
 categories: [Projects]
 tags: [plan-B, foi]
 ---
-Pulled the data from the extracte PITs today to imagine how the challenge pages might look. I am going to cluster and combine the arguments that will be shown here, to make it more accurate, but you can start to see what I am going for. Need to think about what goes where to avoid nav hell.
+Pulled the data from the extracted PITs today to imagine how the challenge pages might look. I am going to cluster and combine the arguments that will be shown here, to make it more accurate, but you can start to see what I am going for. Need to think about what goes where to avoid nav hell.
 
 I am really excited to see this starting to take shape :D
 
