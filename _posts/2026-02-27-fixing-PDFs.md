@@ -12,7 +12,7 @@ I can't explain clearly enough just how annoying the old approach is to work aro
 
 It is no exaggeration to say that manually creating rules that work has consumed entire weeks of my life. Songs and verse have been composed about the frustration of it. It has been a stone in my shoe for ~15 years.
 
-Yesterday, I built a document redaction pipeline for the FOISA project I've been working on. In doing so, realised that most of the things it used for the PDFs were already alaveteli dependencies, and I started to wonder what if. If you know me, you'll know that I have to chase my curiosity and find out.
+Yesterday, I built a document redaction pipeline for the FOISA project I've been working on. In doing so, I realised that most of the things it used for the PDFs were already alaveteli dependencies, and I started to wonder what if. If you know me, you'll know that I have to chase my curiosity and find out.
 
 The approach I used works more like a human would than what is there now, targeting the visual layer. It extracts the text and the exact coords of each word on each page. It runs the censor rules on that text, and if there is a hit, it maps the range back to the bounding boxes of the words. It then opens the PDF and draws a black rectangle as an overlay, with some safety padding. 
 
