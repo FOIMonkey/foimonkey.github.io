@@ -126,6 +126,12 @@ script_includes:
     {{ content }}
   </div>
 
+  {% if page.license %}
+    <div class="post-license text-muted mt-4">
+      <sub>{{ page.license }}</sub>
+    </div>
+  {% endif %}
+
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
     {% if page.categories.size > 0 %}
