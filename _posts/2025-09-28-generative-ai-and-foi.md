@@ -22,7 +22,7 @@ When the results of the classifier are plotted by quarter, it is immediately cle
 
 AI written requests would seem to account for a significant and growing proportion of requests that are made using WhatDoTheyKnow.
 
-Generally, the model answered with a very high degree of confidence. Where the confidence level was lower, the requests seemed to contain elements that are consistent with generative AI, and may have been more extensively edited. I would like to do more work to understand the limitations of the classifier. I do not yet know if it is only able to detect the stylistic quirks of ChatGPT, or would also detect texts from other AI models such as Claude or Gemini. I am also curious to see how much editing you would need to do to an AIrequest before the classifier would consider it to be human-written.
+Generally, the model answered with a very high degree of confidence. Where the confidence level was lower, the requests seemed to contain elements that are consistent with generative AI, and may have been more extensively edited. I would like to do more work to understand the limitations of the classifier. I do not yet know if it is only able to detect the stylistic quirks of ChatGPT, or would also detect texts from other AI models such as Claude or Gemini. I am also curious to see how much editing you would need to do to an AI request before the classifier would consider it to be human-written.
 
 ## The fingerprints of AI
 
@@ -40,7 +40,7 @@ This is a strong indication that users are copy-pasting complete requests direct
 
 There are specific phrases and stylistic choices that large language models seem to love that have seen significant growth in recent years. These "GPT-isms" make new requests sound overly polite, overly formal and overly legalistic (I too can write in triplets).
 
-The phrase "statutory timeframe," which appeared in just 0.02% of requests from 2008-2023, appears in 2.1% of requests in H1 2025, an increase of 13,380%. There has also been a spike in excessive politeness from the baseline figure including "thank you for your consideration" (2,238% increase) "I hope this message finds you well" (5,091% increase). "Thank you for your time" could be found in (in 9% of requests in H1 2025, a 776% increase).
+The phrase "statutory timeframe," which appeared in just 0.02% of requests from 2008-2023, appears in 2.1% of requests in H1 2025, an increase of 13,380%. There has also been a spike in excessive politeness from the baseline figure including "thank you for your consideration" (2,238% increase) "I hope this message finds you well" (5,091% increase). "Thank you for your time" could be found in 9% of requests in H1 2025, a 776% increase.
 
 ![Graph increase in GPT style language from Q1 2023 onwards](/assets/img/2025-09-28/ultra_formal_patterns.png)
 

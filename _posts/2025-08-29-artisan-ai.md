@@ -16,6 +16,6 @@ The key was putting in the work to create a series of high quality yet varied da
 
 Beyond FOI requests, *Wihtgar* has shown similar promising early results on generative tasks in other domains - this afternoon I have adapted it to process some files from the national storage mechanism. Whilst it is never going to win any awards, I think this demonstrates that it's possible to build and refine a basic yet useful specialist model on a modest budget. The training and finetuning together cost less than £250.
 
-More importnantly I've really enjoyed working on this. It has provided me with a focused creative outlet during a bit of a transitional period, and there has always been something about having ownership over every aspect of a model that appeals to me. I don't know if I'll ever reach the point where I'm able to return to properly helping out with FOI related things again, but this feels like a solid foundation to build something interesting from regardless.
+More importantly I've really enjoyed working on this. It has provided me with a focused creative outlet during a bit of a transitional period, and there has always been something about having ownership over every aspect of a model that appeals to me. I don't know if I'll ever reach the point where I'm able to return to properly helping out with FOI related things again, but this feels like a solid foundation to build something interesting from regardless.
 
 All these request generator models are crying out to be hooked up to a one armed bandit UI 👀

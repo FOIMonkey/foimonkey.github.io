@@ -24,4 +24,4 @@ Putting this all together is really magic. With a mix of basic classifiers, rege
 
 The beauty of doing it like this is that unlike generative extraction methods, stripping away the noise guarantees that what is left is present in the original text. There is no risk of hallucinations - I once had AI award the freedom of a small town to Terry Wogan out of the ether when I asked it to reproduce a list, so it happens.
 
-The remaining big challenge with this dataset is that a lot of the information I am looking for is locked away inside PDFs and other attachments. I think I know how to get at this this data too though, so I have found around 100k attachments cached on the Internet Archive that I can use to test my theory if the mood ever takes me.
+The remaining big challenge with this dataset is that a lot of the information I am looking for is locked away inside PDFs and other attachments. I think I know how to get at this data too though, so I have found around 100k attachments cached on the Internet Archive that I can use to test my theory if the mood ever takes me.

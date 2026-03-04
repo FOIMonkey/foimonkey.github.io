@@ -29,4 +29,4 @@ Other interesting finds included:
 * [The auction catalogue for a dress worn by Marilyn Monroe in Some Like It Hot](https://www.whatdotheyknow.com/request/dress_2/response/2448335/attach/7/00004%20scan%202023%2009%2027%2016%2017%2031.jpg?cookie_passthrough=1)
 * [A primary school logo with live laugh love in it](https://www.whatdotheyknow.com/request/religious_practices_at_ni_primar_234/response/2495086/attach/3/Outlook%20bu1tm2ak.png?cookie_passthrough=1)
 
-Having has a quick scan of the outputs, the model seems to have performed well, and if anything might have been overkill in terms of capabilities for this kind of project. I'd eventually like to do all the images, so I'm hoping to find as lightweight a solution as possible that is still accurate enough to be useful.
+Having had a quick scan of the outputs, the model seems to have performed well, and if anything might have been overkill in terms of capabilities for this kind of project. I'd eventually like to do all the images, so I'm hoping to find as lightweight a solution as possible that is still accurate enough to be useful.

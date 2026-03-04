@@ -27,7 +27,7 @@ Not the most frequent or scenic bus ride on the island, but it avoids an unneces
 **Cost:** £3.00  
 
 ## Mode 3 - Hovercraft from Ryde to Southsea
-This was my favourite part of the journey. I’d not been on a Hovercraft before, and had always wanted to. I was struck by how there was no real difference between being on the land and the water. We did seem to bob about off southsea for a bit. I arrived in time to watch the flight before mine depart, and got covered in sand that was kicked up by the fans as it left. I'll be finding it in my bag for several week left.
+This was my favourite part of the journey. I’d not been on a Hovercraft before, and had always wanted to. I was struck by how there was no real difference between being on the land and the water. We did seem to bob about off southsea for a bit. I arrived in time to watch the flight before mine depart, and got covered in sand that was kicked up by the fans as it left. I'll be finding it in my bag for several weeks.
 ![A hover craft at rest, with the front door open to allow passengers to board.](/assets/img/2025-08-06/hover.jpg)
 **Journey time:** 10 minutes  
 **Cost:** £26.70 (including bus)  
@@ -51,7 +51,7 @@ I wasn’t sure whether to count this as a mode, but it does run to a timetable.
 **Cost:** Free  
 
 ## Train from Gatwick Airport to East Croydon 
-By the time I made it back to the platforms, I had missed the train I’d planned to catch, but was in time to get a late running Thameslink that departed 7 minues later. I still think of these as being “new” trains, even though they have been in service for several years now.  
+By the time I made it back to the platforms, I had missed the train I’d planned to catch, but was in time to get a late running Thameslink that departed 7 minutes later. I still think of these as being “new” trains, even though they have been in service for several years now.  
 **Journey time:** 15 minutes  
 **Cost:** £6.08  
 
@@ -86,7 +86,7 @@ I made the Uber Boat just in time, with the gangway being raised as soon as I bo
 **Cost:** £5.90  
 
 ## Mode 12 Underground from Canary Wharf to London Waterloo
-A bit of longer walk here to transfer from the river to the tube, but it’s almost a straight line and pleasant enough. The Jubilee Line was very busy, to the point that I thought I might not make it off at Waterloo for having to clambour over mounds of luggage.
+A bit of longer walk here to transfer from the river to the tube, but it’s almost a straight line and pleasant enough. The Jubilee Line was very busy, to the point that I thought I might not make it off at Waterloo for having to clamber over mounds of luggage.
 ![The outside of canary wharf tube station](/assets/img/2025-08-06/canary-wharf.jpg)
 **Journey time:** 9 minutes  
 **Cost:** £2.90  
